@@ -1,3 +1,2 @@
-﻿  stdafx.cpp
-  Learning.cpp
-  Learning.vcxproj -> E:\LearnExercise\LearnCPlusPlus\Learning\Debug\Learning.exe
+﻿  mathl.cpp
+c1xx : fatal error C1083: 无法打开源文件: “mathl.cpp”: No such file or directory
